@@ -1,6 +1,6 @@
 
 Video Demo
-![video](https://vimeo.com/1017887195?share=copy#t=0)
+![image](https://vimeo.com/1017887195?share=copy#t=0)
 
 Sign in page
 ![image](https://github.com/user-attachments/assets/6ac19695-a89d-4ee0-ba37-309dea5da388)
