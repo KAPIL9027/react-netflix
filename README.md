@@ -12,6 +12,9 @@ Signup page
 Homepage
 ![image](https://github.com/user-attachments/assets/46545b9f-71b0-43cc-9f38-90a95bcdeb82)
 
+![image](https://github.com/user-attachments/assets/bdbd750a-1f5d-4d5a-a3bf-4b2bfa332c75)
+
+
 
 
 
